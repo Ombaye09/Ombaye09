@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ombaye Joshua 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Web+Designer+%26+Developer;AI+%2F+ML+Enthusiast;IT+Student+%40+SEKU" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=bold&size=28&pause=1500&color=1E90FF&cursor=_&cursorBlink=true&width=500&lines=Web+Designer+%26+Developer;AI+%2F+ML+Enthusiast;IT+Student+%40+SEKU;Always+learning+new+things" />
 </p>
 
 ---
