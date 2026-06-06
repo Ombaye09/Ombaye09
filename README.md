@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Ombaye Joshua 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Web+Designer+%26+Developer;AI+%2F+ML+Enthusiast;IT+Student+%40+SEKU" alt="Typing SVG" />
@@ -14,7 +14,7 @@ I am an **Information Technology** student at **South Eastern Kenya University (
 - 🌍 Based in Kenya
 - 💡 Learning: Python, JavaScript, React, Machine Learning
 - 🎯 2026 Goal: Build my first AI-powered web app
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: ombayejoshuanyamongo@gmail.com
 
 ---
 
@@ -63,9 +63,9 @@ I am an **Information Technology** student at **South Eastern Kenya University (
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ombaye joshua)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/@OMBAYE09)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ombayejoshuanyamongo@gmail.)
 
 ---
 
